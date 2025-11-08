@@ -72,8 +72,3 @@ Calculado através da fórmula: peso / (altura × altura)
 ### Média válida
 Calculada removendo a maior e menor nota e fazendo a média das notas restantes.
 
-## Autor
-[Seu nome]
-
-## Licença
-Este projeto está sob a licença MIT.
